@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>menu2.png</file>
+    <file>menu1.png</file>
+    <file>cardapio.png</file>
+    <file>46065.jpg</file>
+    <file>botao-de-menu.png</file>
+  </qresource>
+  <qresource prefix="Imagens">
+    <file>teste1.png</file>
+  </qresource>
+</RCC>
